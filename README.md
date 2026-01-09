@@ -1,5 +1,6 @@
 This project is a Macropad 
 runs on XIAO-RP2040-DIP
+
 <img width="477" height="628" alt="pcb" src="https://github.com/user-attachments/assets/7d7661fe-6728-4e78-ba43-df2a65641868" />
 <img width="598" height="467" alt="schematic" src="https://github.com/user-attachments/assets/60b5f556-78e9-4efd-902e-5ccd99877dc6" />
 
